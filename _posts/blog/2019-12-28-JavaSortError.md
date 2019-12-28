@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Collections.sort排序异常
+title: Collections.sort排序异常,Comparison method violates its general contract!
 categories: [Java异常]
 description: Collections.sort排序异常
 keywords: 排序, 异常
