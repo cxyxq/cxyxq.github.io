@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 零拷贝
-categories: [Blog]
+categories: [NIO]
 description: 零拷贝的原理分析
 keywords: NIO
 ---
