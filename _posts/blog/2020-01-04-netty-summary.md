@@ -1,4 +1,14 @@
-## Netty总结
+---
+layout: post
+title: Netty常用组件总结
+categories: [NIO]
+description: Netty常用组件总结
+keywords: NIO
+typora-root-url: ../../
+---
+
+
+## Netty常用组件总结
 
 ### 线程模型
 
