@@ -361,7 +361,7 @@ protected List<Long> nextIdsForOneSecond(long currentSecond) {
 #### Zookeeper
 每个server启动后，把自己的 `ip:port` 注册到zk上，zk返回一个创建的序号，使用序号作为server的workerId。
 
-```shell
+```bin
 # create the persistent-sequential node
 [zkshell: 9] create -s /persistent_sequential_node mydata
 	Created /persistent_sequential_node0000000176
@@ -373,10 +373,6 @@ protected List<Long> nextIdsForOneSecond(long currentSecond) {
 
 #### database
 上面百度 uid-generator使用的就是数据库分配的方式。
-
-
-
-
 
 ### K8S部署后IP不固定的问题
 
