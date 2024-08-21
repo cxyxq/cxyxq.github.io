@@ -24,3 +24,9 @@ https://www.perplexity.ai/
 
 #### 秘塔AI搜索
 https://metaso.cn/
+
+
+### 好文搜藏
+
+#### 比尔盖茨关于人工智能的看法
+https://www.gatesnotes.com/AI-agents
